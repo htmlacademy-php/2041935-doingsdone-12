@@ -113,7 +113,6 @@ $tasks = [
 
                             <td class="task__date"><?= $value[1] ?></td>
                         </tr>
-
                     <?php endforeach; ?>
 
                     <!--показывать следующий тег <tr/>, если переменная $show_complete_tasks равна единице-->
